@@ -1,4 +1,35 @@
-img{
+img {
     height: 600px;
     width: 350px;
+    margin: 20px;
+}
+
+.img1 {
+    height: 200px;
+    width: 150px;
+}
+
+.conteiner {
+    display: flex;
+    gap: 50px;
+    margin: 20px;
+}
+
+.contenedor {
+    display: flex;
+    justify-items: center;
+    flex-direction: row;
+    margin: 20px;
+}
+
+h1 {
+    margin: 20px;
+}
+
+.boton {
+
+    height: 30px;
+    width: 130px;
+    margin-left: 150px;
+
 }
