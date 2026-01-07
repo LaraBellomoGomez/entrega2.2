@@ -26,10 +26,12 @@ h1 {
     margin: 20px;
 }
 
-.boton {
+.texto{
+    padding: 5px;
+}
 
+.boton {
     height: 30px;
     width: 130px;
     margin-left: 150px;
-
 }
