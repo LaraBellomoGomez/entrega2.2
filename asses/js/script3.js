@@ -12,7 +12,7 @@ function limitarNumero(input) {
 number1.addEventListener("input", () => limitarNumero(number1));
 number2.addEventListener("input", () => limitarNumero(number2));
 number3.addEventListener("input", () => limitarNumero(number3));
-
+   
 boton.addEventListener("click", () => {
     const n1 = Number(number1.value);
     const n2 = Number(number2.value);

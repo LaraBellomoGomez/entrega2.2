@@ -14,4 +14,4 @@ boton.addEventListener("click", () => {
   } else {
     texto.textContent = "Llevas demasiados stickers.";
   }
-});
+});  
